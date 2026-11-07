@@ -2,6 +2,8 @@
 
 Extensão para Chrome e Edge (Manifest V3) que descobre o link real do arquivo por trás de um botão de download.
 
+![Janela da extensão, com o botão Selecionar download](docs/screenshots/popup.png)
+
 ## Como usar
 
 1. Abra `chrome://extensions` e ative o modo do desenvolvedor.
